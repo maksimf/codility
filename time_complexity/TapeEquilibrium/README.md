@@ -1,9 +1,9 @@
-# Codility result
+## Codility result
 
-## Score
+### Score
 100%
 
-## Time complexity
+### Time complexity
 O(N)
 
 ## Problem difficulty
