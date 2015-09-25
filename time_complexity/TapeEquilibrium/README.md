@@ -1,10 +1,5 @@
 ## Codility result
 
-### Score
-100%
-
-### Time complexity
-O(N)
-
-## Problem difficulty
-Painless
+Score | Time complexity | Problem difficulty
+----- | --------------- | ------------------
+100%  | O(N)            | Painless
