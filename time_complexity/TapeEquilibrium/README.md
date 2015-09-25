@@ -5,3 +5,6 @@
 
 ## Time complexity
 O(N)
+
+## Problem difficulty
+Painless
