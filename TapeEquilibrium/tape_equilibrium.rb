@@ -1,5 +1,5 @@
 class TapeEquilibrium
-  def self.solution(a)
+  def solution(a)
     sum = 0
     n = a.size
     left_sum, right_sum = 0
@@ -15,7 +15,7 @@ class TapeEquilibrium
       right_sum = sum - left_sum
       difference = (left_sum - right_sum).abs
 
-      if difference < min
+      if difference < min || i == 0
         min = difference
       end
     end
